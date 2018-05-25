@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Basic flow for assigning work on a loaner laptop.</description>
+        <label_cache>[{"name":"a8ae2e83-a67e-422b-b0f5-5b9c5e7716de.table_name","label":"6➛Loaner Request Table","reference":"x_snc_loaner_reque_loaner_request","reference_display":"Loaner Request Table"},{"name":"a8ae2e83-a67e-422b-b0f5-5b9c5e7716de.record","label":"6➛Loaner Request Record","reference":"x_snc_loaner_reque_loaner_request","reference_display":"Loaner Request Record"},{"name":"a38776f9-014f-4e20-866f-1541371d9f56.table_name","label":"3➛Loaner Request Table","reference":"x_snc_loaner_reque_loaner_request","reference_display":"Loaner Request Table"},{"name":"a38776f9-014f-4e20-866f-1541371d9f56.record","label":"3➛Loaner Request Record","reference":"x_snc_loaner_reque_loaner_request","reference_display":"Loaner Request Record"},{"name":"231c0656-4d60-4e3f-82ce-7ff66b8e12d5.Record","label":"5➛Loaner Task Record","reference":"x_snc_loaner_reque_loaner_task","reference_display":"Loaner Task Record"},{"name":"231c0656-4d60-4e3f-82ce-7ff66b8e12d5.Table","label":"5➛Loaner Task Table","reference":"x_snc_loaner_reque_loaner_task","reference_display":"Loaner Task Table"},{"name":"e9b4b97c-a998-4c0f-be60-562c814ae588.Record","label":"2➛Loaner Task Record","reference":"x_snc_loaner_reque_loaner_task","reference_display":"Loaner Task Record"},{"name":"e9b4b97c-a998-4c0f-be60-562c814ae588.Table","label":"2➛Loaner Task Table","reference":"x_snc_loaner_reque_loaner_task","reference_display":"Loaner Task Table"},{"name":"Created or Updated_1.current","label":"Trigger➛Loaner Request Record","reference":"x_snc_loaner_reque_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"}]</label_cache>
+        <name>Loaner Laptop</name>
+        <parent_flow display_value="Loaner Laptop">09232cd5edd613007f44d1ba65488565</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-24 19:04:31</sys_created_on>
+        <sys_id>d28a6459edd613007f44d1ba654885a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">d1908bf8ed9213007f44d1ba65488579</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d1908bf8ed9213007f44d1ba65488579</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_d28a6459edd613007f44d1ba654885a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-24 19:04:31</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

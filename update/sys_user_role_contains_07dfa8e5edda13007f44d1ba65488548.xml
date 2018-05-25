@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_snc_testing_appl.testing_scope_user" name="x_snc_testing_appl.testing_scope_user">53254411edd613007f44d1ba65488540</contains>
+        <role display_value="x_snc_loaner_reque.admin" name="x_snc_loaner_reque.admin">2c9bb74ded9613007f44d1ba65488524</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-25 14:06:15</sys_created_on>
+        <sys_id>07dfa8e5edda13007f44d1ba65488548</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_testing_appl.testing_scope_user.x_snc_loaner_reque.admin</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">d1908bf8ed9213007f44d1ba65488579</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d1908bf8ed9213007f44d1ba65488579</sys_scope>
+        <sys_update_name>sys_user_role_contains_07dfa8e5edda13007f44d1ba65488548</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-25 14:06:15</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
