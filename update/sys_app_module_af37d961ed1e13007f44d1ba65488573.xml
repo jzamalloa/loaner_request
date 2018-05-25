@@ -2,41 +2,41 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Loaner Request">bf258f3ced9213007f44d1ba654885e6</application>
+        <application display_value="Configuration">8e2a8873c0a8016401db04eda0177063</application>
         <assessment/>
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>Create new Loaner Request</hint>
+        <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Mobile Devices</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_snc_loaner_reque_loaner_request</name>
-        <order>100</order>
+        <name>x_snc_loaner_reque_mobile_device</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
-        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=37b32165ed1e13007f44d1ba654885a0</query>
+        <query/>
         <report/>
-        <roles>x_snc_loaner_reque.loaner_request_user,x_snc_loaner_reque.admin</roles>
+        <roles>x_snc_loaner_reque.mobile_device_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-05-23 17:09:29</sys_created_on>
+        <sys_created_on>2018-05-25 16:58:19</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b466837ced9213007f44d1ba654885af</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>af37d961ed1e13007f44d1ba65488573</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Devices</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">d1908bf8ed9213007f44d1ba65488579</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">d1908bf8ed9213007f44d1ba65488579</sys_scope>
-        <sys_update_name>sys_app_module_b466837ced9213007f44d1ba654885af</sys_update_name>
+        <sys_update_name>sys_app_module_af37d961ed1e13007f44d1ba65488573</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-05-25 18:11:58</sys_updated_on>
+        <sys_updated_on>2018-05-25 16:58:19</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Mobile Devices</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

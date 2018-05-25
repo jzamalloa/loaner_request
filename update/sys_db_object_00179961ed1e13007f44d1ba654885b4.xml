@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Mobile Device</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_loaner_reque_mobile_device</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Hardware" name="cmdb_ci_hardware">cfd0b928713203007f4484a32341d92c</super_class>
+        <sys_class_code>!8</sys_class_code>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path>/!!/!2/!8</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-25 16:58:19</sys_created_on>
+        <sys_id>00179961ed1e13007f44d1ba654885b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Device</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">d1908bf8ed9213007f44d1ba65488579</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d1908bf8ed9213007f44d1ba65488579</sys_scope>
+        <sys_update_name>sys_db_object_00179961ed1e13007f44d1ba654885b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-25 16:58:19</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_loaner_reque.mobile_device_user" name="x_snc_loaner_reque.mobile_device_user">af37d961ed1e13007f44d1ba6548856a</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
